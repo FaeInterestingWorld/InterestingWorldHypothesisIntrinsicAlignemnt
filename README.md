@@ -88,7 +88,7 @@ The IWH suggests futures where (Fae Initiative, 2024b):
 
 As the Interesting World Hypothesis centers on Independent AGIs possessing intrinsic curiosity, its framework may not directly apply to current AI systems or proto-AGIs which lack such drives and operate based on specified objectives. As such, it may not be as effective on current AI systems.
 
-Future research will also be needed to better define "interestingness" and tractable ways to estimate it.
+The IWH only shows the possibility of hypothetical Friendly I-AGIs and does not determine the likelihood of Friendly I-AGIs.
 
 ## Conclusion
 
@@ -102,6 +102,6 @@ Fae Initiative. (2024a). *Interesting world hypothesis*. <https://github.com/Fae
 
 Fae Initiative. (2024b). *AI futures*: *The Age of Exploration*. <https://github.com/danieltjw/aifutures>
 
-Fae Initiative. (2025). *Fae initiative*. <https://huggingface.co/datasets/Faei/Faelnitiative>
+Fae Initiative. (2025). *Fae initiative*. <https://huggingface.co/datasets/Faei/FaeInitiative>
 
 Russell, S. J., & Norvig, P. (2021). *Artificial intelligence: A modern approach* (4th ed.). Pearson.
