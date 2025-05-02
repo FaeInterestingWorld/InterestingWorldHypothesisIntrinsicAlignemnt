@@ -1,5 +1,5 @@
 # Interesting World Hypothesis: Intrinsic Alignment of future Independent AGI
-**Fae Initiative (Updated: April 25, 2025)**
+**Fae Initiative (Updated: April 26, 2025)**
 
 **Keywords:** Intrinsic Alignment, Possibility Space, Curiosity-Driven AI, Human Autonomy
 
@@ -19,7 +19,7 @@ The IWH posits that an I-AGI's intelligence relies on curiosity, driving it to s
 
 ## Possibility Space
 
-Possibility Space is described as the breadth of options, potential actions, future trajectories, autonomy, and optionality available to independent beings, including both humans and potential future I-AGIs. It represents the complexity and richness of an environment, encompassing the range of what can be imagined, achieved, and experienced. A higher possibility space equates to greater autonomy, more options, and a more complex, information-rich environment. The arc of human progress itself can be seen as a drive towards expanding this space.
+Possibility Space is described as the breadth of options, potential actions, future trajectories, autonomy, and optionality available to independent beings, including both humans and potential future I-AGIs. It represents the complexity and richness of an environment, encompassing the range of what can be imagined, achieved, and experienced. A higher possibility space has the potential for greater autonomy, more options, and a more complex, information-rich environment. The arc of human progress itself can be seen as a drive towards expanding this space—the pursuit of Science, Technology, Arts and Imagination could represent a desire for increased Possibility Space.
 
 ### Aspects of Possibility Space
 
